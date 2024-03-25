@@ -1,11 +1,11 @@
 
 ### Introduction : Sauvetage Numérique d'un Trésor Ancien
 
-Imaginez avoir une machine à remonter le temps qui vous permet de sauvegarder et d'explorer le patrimoine culturel d'une civilisation ancienne, en particulier sa littérature, ses manuscrits, sa théologie, et ses connaissances scientifiques. C'est exactement ce que cherche à accomplir l'équipe de recherche de l'Université Saint-Esprit de Kaslik, au Liban, en se concentrant sur les manuscrits syriaques anciens. Leur mission ? Utiliser la technologie moderne, spécifiquement un type d'intelligence artificielle connue sous le nom de réseau neuronal convolutionnel, pour lire et comprendre ces textes anciens, qui sont en danger à cause de leur vulnérabilité physique.
+Imaginez posséder une machine à voyager dans le temps qui vous donne la possibilité non seulement de découvrir, mais aussi de préserver le patrimoine culturel d'une civilisation ancienne. Cela inclut sa littérature, ses manuscrits, sa pensée théologique et ses avancées scientifiques. C'est précisément l'objectif poursuivi par une équipe de chercheurs de l'Université Saint-Esprit de Kaslik, au Liban. Leur projet ?  Utiliser un réseau de neurones convolutionnels, pour décrypter et analyser ces textes Syriaques. Ces documents, fragiles et menacés par le temps, pourraient ainsi être sauvés et leurs secrets, révélés au monde.
 
 ### Pourquoi les Manuscrits Syriaques ?
 
-Le syriaque, une langue issue de l'araméen et qui a joué un rôle crucial dans la transmission de la connaissance à travers les âges, est aujourd'hui une langue en péril. Les manuscrits syriaques ne sont pas seulement des œuvres d'art; ils sont des témoignages de la culture, de la science, et de la philosophie d'une civilisation. Mais ils sont menacés par le temps et l'oubli. D'où l'urgence de les numériser et de les rendre accessibles pour les sauvegarder pour l'avenir.
+Le syriaque, une langue issue de l'araméen et qui a joué un rôle crucial dans la transmission de la connaissance à travers les âges, est aujourd'hui une langue en péril. Les manuscrits syriaques ne sont pas seulement des œuvres d'art, ils sont des témoignages de la culture, de la science, et de la philosophie d'une civilisation. Mais ils sont menacés par le temps et l'oubli. D'où l'urgence de les numériser et de les rendre accessibles pour les sauvegarder pour l'avenir.
 
 ### Le Défi : Reconnaître les Caractères Anciens
 
